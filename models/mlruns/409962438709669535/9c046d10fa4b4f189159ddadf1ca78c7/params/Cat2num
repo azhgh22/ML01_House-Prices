@@ -1,0 +1,1 @@
+if feature have 30+ categorical value fill with mean of target group by this categorical value, else use OneHotEncoding

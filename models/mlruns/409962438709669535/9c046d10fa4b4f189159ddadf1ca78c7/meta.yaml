@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Achi/Desktop/ML01_House-Prices/models/mlruns/409962438709669535/9c046d10fa4b4f189159ddadf1ca78c7/artifacts
+end_time: 1744148403077
+entry_point_name: ''
+experiment_id: '409962438709669535'
+lifecycle_stage: active
+run_id: 9c046d10fa4b4f189159ddadf1ca78c7
+run_name: run1
+run_uuid: 9c046d10fa4b4f189159ddadf1ca78c7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744148402620
+status: 4
+tags: []
+user_id: Achi
