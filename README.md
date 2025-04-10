@@ -1,3 +1,5 @@
+mlflow link: https://dagshub.com/azhgh22/ML01_House-Prices.mlflow/#/experiments/1?searchFilter=&orderByKey=attributes.start_time&orderByAsc=false&startTime=ALL&lifecycleFilter=Active&modelVersionFilter=All+Runs&datasetsFilter=W10%3D
+
 Experiment 1:
     steps:
         1.  გავაქრე ისეთი სვეტები, სადაც NA იების რაოდენობა/სტრიქონების რაოდენობაზე threshold-ზე მეტია, რაგდან ასეთი 
