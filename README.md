@@ -158,3 +158,4 @@ Experiment 5
     
     train mae: 7546.9768
     test mae: 15508.9544
+სავარაუდოდ იმიტომ რომ პატარა dataset გვაქვს.
